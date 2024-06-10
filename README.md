@@ -1,11 +1,9 @@
-# g1eam_playground
-
-[![Package Version](https://img.shields.io/hexpm/v/g1eam_playground)](https://hex.pm/packages/g1eam_playground)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/g1eam_playground/)
+# Gleam Playground
 
 ```sh
 gleam add g1eam_playground
 ```
+
 ```gleam
 import g1eam_playground
 
@@ -14,7 +12,7 @@ pub fn main() {
 }
 ```
 
-Further documentation can be found at <https://hexdocs.pm/g1eam_playground>.
+Further documentation can be found at <https://gleam.run/>.
 
 ## Development
 
